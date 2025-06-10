@@ -113,7 +113,7 @@ public class ExpenseTracker extends JFrame{
                 total += amount;
             }
 
-            totalLabel.setText("Σύνολο: " + total + " €");
+            totalLabel.setText("Total: " + total + " €");
         } catch (Exception e) {
             JOptionPane.showMessageDialog(this, "Error:/: " + e.getMessage());
         }
