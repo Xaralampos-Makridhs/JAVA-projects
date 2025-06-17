@@ -66,7 +66,3 @@
 3. Reservations are saved in-memory and persist to the file automatically via serialization.
 
 ---
-
-##  Data Storage
-
-- All hotel and reservation data is stored in a file:
