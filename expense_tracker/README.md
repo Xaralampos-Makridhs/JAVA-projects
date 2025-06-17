@@ -4,9 +4,9 @@
 
 ---
 
-## 📦 Features
+##  Features
 
-### 💰 Expense Management
+###  Expense Management
 - **Add Expense**: Fill in amount, description, and category — today's date is added automatically.
 - **Display Expenses**: Shows all expenses in a sortable table.
 - **Total Expenses**: Displays the total amount of all recorded expenses.
@@ -15,7 +15,7 @@
 
 ---
 
-## 📊 Additional Features
+##  Additional Features
 
 - **Date Handling**: The application uses the current date as the default date of entry.
 - **Input Validation**: If the amount is not valid, an error message appears.
@@ -23,7 +23,7 @@
 
 ---
 
-## 📁 File Structure
+##  File Structure
 
 - `Main.java`: Application entry point; initializes database table and starts the GUI.
 - `ExpenseTracker.java`: Main window; contains form, table, and logic for inserting and loading expenses.
@@ -32,7 +32,7 @@
 
 ---
 
-## 🧪 Technologies
+##  Technologies
 
 - Java SE
 - Swing for the graphical user interface
@@ -42,7 +42,7 @@
 
 ---
 
-## 🔄 How It Works
+##  How It Works
 
 1. Run `Main.java`.
 2. The application will:
