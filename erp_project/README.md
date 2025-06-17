@@ -68,10 +68,3 @@
 
 ---
 
-## ⚠ Notes
-
-- `customers.txt` and `products.txt` should be in the same directory as the app.
-- If the files do not exist, they are automatically created.
-- File format is simple text, one record per line.
----
-
