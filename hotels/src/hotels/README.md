@@ -6,7 +6,7 @@
 
 ##  Features
 
-### 🏨 Hotel Management
+###  Hotel Management
 - **Predefined Hotel List**: The application starts with a predefined list of hotels (e.g. *Bellevue*, *Hermes*, etc.).
 - **Hotel Sorting**: Hotels are automatically sorted alphabetically before being displayed in the GUI.
 - **Hotel Selection**: Users select a hotel from a list to make or view reservations.
