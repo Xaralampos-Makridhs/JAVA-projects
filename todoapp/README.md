@@ -1,12 +1,12 @@
-# 📝 To-Do List App (Java + Swing)
+#  To-Do List App (Java + Swing)
 
 This is a simple and user-friendly **To-Do List desktop application** written in Java using **Swing**. It allows users to add, remove, save, and load tasks with a graphical interface. Tasks are stored in a plain text file (`tasks.txt`) for easy access and persistence.
 
 ---
 
-## 🚀 Features
+##  Features
 
-### ✅ Core Functionalities
+###  Core Functionalities
 - **Add Task**: Type a task and click **Add** to insert it into the list.
 - **Remove Task**: Select a task and press **Remove** to delete it.
 - **Save Tasks**: Save all current tasks into a text file using a **FileChooser**.
@@ -14,7 +14,7 @@ This is a simple and user-friendly **To-Do List desktop application** written in
 
 ---
 
-## 💾 Data Persistence
+##  Data Persistence
 
 - Tasks are stored and loaded from the file:
 
