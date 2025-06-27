@@ -1,3 +1,3 @@
 Question: What is Java and what are its main characteristics as a programming language?
-Answer: b fnghjgvjbh
+Answer:Java is a high-level, object-oriented programming language developed by Sun Microsystems (now owned by Oracle) that is designed to be platform-independent, meaning code written in Java can run on any device with a Java Virtual Machine (JVM). It is known for its simplicity, security, and robustness, featuring automatic memory management (garbage collection), strong type checking, and exception handling. Java supports multithreading for concurrent processing and is widely used in web, mobile, desktop, and enterprise applications. Its "write once, run anywhere" philosophy, along with its extensive standard library and strong community support, makes it one of the most popular and versatile programming languages in the world.
 
