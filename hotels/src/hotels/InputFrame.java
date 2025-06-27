@@ -119,7 +119,7 @@ public class InputFrame extends JFrame {
 					int days=Integer.parseInt(daysText);
 					Reservation r;
 					if(mealsField.getText().equals("")) {
-						r=new Reservation(days);//afou den edwse plithos gevmatwn h krathsh eiani aplh
+						r=new Reservation(days);
 					}else {
 						int meals=Integer.parseInt(mealsField.getText());
 						r=new AllInclusiveRes(days,meals);
