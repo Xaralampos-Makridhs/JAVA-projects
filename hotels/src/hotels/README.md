@@ -57,12 +57,9 @@
 
 1. Run `Main.java`:
    - Creates 4 default hotels.
-   - Serializes them to the file `hotels.ser`.
    - Launches the main application window.
 2. Use the GUI to:
    - Select a hotel.
    - Fill in days (and meals if needed).
    - Add reservation or calculate total cost.
-3. Reservations are saved in-memory and persist to the file automatically via serialization.
-
 ---
