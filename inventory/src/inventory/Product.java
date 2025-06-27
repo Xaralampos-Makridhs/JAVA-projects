@@ -33,6 +33,6 @@ public class Product {
 	
 	@Override
 	public String toString() {
-		return name+"(Απόθεμα:"+stock+")";
+		return name+"(Stock: "+stock+")";
 	}
 }
