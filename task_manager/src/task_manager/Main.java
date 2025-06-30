@@ -12,9 +12,6 @@ public class Main {
 			System.out.println("DB init Error"+ e.getMessage());
 		}
 		
-		
-		
-		
 		SwingUtilities.invokeLater(()->{
 			TaskManager manager=new TaskManager();
 			new TaskManagerGUI(manager);
