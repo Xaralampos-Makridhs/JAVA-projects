@@ -57,7 +57,6 @@ public class Frame extends JFrame {
 	    topPanel.add(stockPanel);
 	    topPanel.add(buttonPanel);
 
-	    // Λογική για το κουμπί
 	    addProdButt.addActionListener(e -> {
 	        String name = nameField.getText().trim();
 	        String stockText = stockField.getText().trim();
