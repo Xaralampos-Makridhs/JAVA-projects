@@ -95,14 +95,5 @@ public class toDoGUI extends JFrame {
 		}catch (IOException ev) {
 			JOptionPane.showMessageDialog(this,"Error :/");
 		}
-	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
+	}	
 }
