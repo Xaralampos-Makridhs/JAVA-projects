@@ -27,19 +27,6 @@
 - **Whitespace Handling**:
   - English words become Morse with `   ` (3 spaces).
   - Morse with 3 spaces becomes an English word separator.
-
----
-
-##  File Structure
-
-- `Main.java`: Launches the Swing application on the Event Dispatch Thread.
-- `MorseCodeGUI.java`: *(Not provided in your code but implied)*  
-  - Should contain the Swing interface for text input/output and buttons for translation.
-- `MorseCode.java`: Initializes the Morse code dictionary using `HashMap`.
-- `MorseTranslator.java`: Provides static methods:
-  - `toMorse(String text)`
-  - `toEnglish(String morse)`
-
 ---
 
 ##  Technologies
