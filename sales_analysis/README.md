@@ -1,4 +1,4 @@
-# 📊 Sales Analysis (Java Desktop App)
+# 📊 Sales Analysis 
 
 A Java Swing desktop application that reads sales data from a `.csv` file, calculates total monthly revenue, and visualizes it using a bar chart.
 
