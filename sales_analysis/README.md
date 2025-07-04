@@ -16,7 +16,7 @@ A Java Swing desktop application that reads sales data from a `.csv` file, calcu
 ![struct](https://github.com/user-attachments/assets/0a443c6f-6e1f-443d-8e8c-891befd5830a)
 
 
-Inside the src folder, there is the package containing the code files.
+**Inside the src folder, there is the package containing the code files.**
 
 ## User Interface
 ![frame (1)](https://github.com/user-attachments/assets/b844b2f1-9bd1-45c5-a51d-bbb5de75923d)
