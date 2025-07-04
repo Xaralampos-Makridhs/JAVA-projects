@@ -14,7 +14,7 @@ It reads a CSV file through JFileChooser, converting the data into a bar chart w
 Inside the src folder, there is the package containing the code files.
 
 ## User Interface
-![frame (1)](https://github.com/user-attachments/assets/b844b2f1-9bd1-45c5-a51d-bbb5de75923d)\
+![frame (1)](https://github.com/user-attachments/assets/b844b2f1-9bd1-45c5-a51d-bbb5de75923d)
 
 
 ![chart](https://github.com/user-attachments/assets/06f54fb7-46ba-4c86-b43e-29a1ba00e7a7)
