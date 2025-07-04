@@ -5,7 +5,12 @@ A Java Swing desktop application that reads sales data from a `.csv` file, calcu
 ---
 
 ##  Features
-It reads a CSV file through JFileChooser, converting the data into a bar chart with the horizontal axis representing months and the vertical axis representing monthly sales (euros).
+-  Import `.csv` file with sales records
+-  Automatically parses and groups data by month
+-  Calculates total revenue per month
+-  Displays a dynamic bar chart (JFreeChart)
+-  User-friendly GUI built with Java Swing
+-  Uses OpenCSV for CSV parsing
 
 ## Struct
 ![struct](https://github.com/user-attachments/assets/1fe6d4c2-de3c-4645-ae3e-feb4f7b907b1)
