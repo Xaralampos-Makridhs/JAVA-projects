@@ -13,7 +13,7 @@ A Java Swing desktop application that reads sales data from a `.csv` file, calcu
 -  Uses OpenCSV for CSV parsing
 
 ## Struct
-![struct](https://github.com/user-attachments/assets/1fe6d4c2-de3c-4645-ae3e-feb4f7b907b1)
+![struct](https://github.com/user-attachments/assets/0a443c6f-6e1f-443d-8e8c-891befd5830a)
 
 
 Inside the src folder, there is the package containing the code files.
