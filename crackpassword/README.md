@@ -18,17 +18,13 @@ Nowadays, MD5 is considered outdated and insecure for use in security-critical s
 The application offers a user-friendly interface, supports input of custom dictionary files (.txt) containing candidate passwords, provides error handling, supports all MD5 hashes, and is case sensitive.
 
 ## Struct
-
 -`Main.java`.
 
 -`MD5passwordCrackGUI.java`.
 
-
-
-
 ### User Interface
 
-![ui](https://github.com/user-attachments/assets/0f81f349-7ff1-4732-9ef4-9ffc3bfc122c)
+<img width="800" height="567" alt="MD5" src="https://github.com/user-attachments/assets/6c01e727-968b-466c-9e00-7c51bae5507f" />
 
 ## How to execute
 
