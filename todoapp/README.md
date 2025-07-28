@@ -22,6 +22,7 @@ This is a simple and user-friendly **To-Do List desktop application** written in
 - When loading, all tasks from the file are displayed in the list.
 
 ### Example content of `tasks.txt`:
+
 -Buy groceries
 -Finish Java homework
 -Call Mom
