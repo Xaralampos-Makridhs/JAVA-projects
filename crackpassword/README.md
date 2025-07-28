@@ -5,10 +5,6 @@
 MD5 stands for Message-Digest Algorithm 5.  
 It is a cryptographic hash function that takes an input (like a password, file, or string) and produces a fixed-length 32-character hexadecimal hash.
 
-MD5 Algorithm:
-
-![md5algorithm](https://github.com/user-attachments/assets/ce480d0e-1a8f-47c9-b2cd-978eb238a569)
-
 ## How it works?
 
 MD5 takes input of any size and converts it into a fixed 128-bit (16 bytes) hash value.  
