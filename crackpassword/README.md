@@ -19,8 +19,8 @@ The application offers a user-friendly interface, supports input of custom dicti
 
 ## Struct
 
-`Main.java`
-`MD5passwordCrackGUI.java`
+-`Main.java`.
+-`MD5passwordCrackGUI.java`.
 
 
 
