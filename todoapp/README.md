@@ -23,6 +23,8 @@ This is a simple and user-friendly **To-Do List desktop application** written in
 
 ### Example content of `tasks.txt`:
 
--Buy groceries
--Finish Java homework
--Call Mom
+-Buy groceries.
+
+-Finish Java homework.
+
+-Call Mom.
