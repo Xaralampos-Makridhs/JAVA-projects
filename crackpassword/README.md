@@ -19,7 +19,11 @@ The application offers a user-friendly interface, supports input of custom dicti
 
 ## Struct
 
-![struct](https://github.com/user-attachments/assets/b8d04aa4-0298-42b3-92c0-a79c923d912a)
+`Main.java`
+`MD5passwordCrackGUI.java`
+
+
+
 
 ### User Interface
 
